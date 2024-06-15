@@ -62,7 +62,7 @@ let municipios = {
     "Mataró": [41.539400, 2.444450],
     "Lleida": [41.617600, 0.623610],
     "León": [42.598700, -5.567080],
-    "Vitoria-Gasteiz": [42.846718, -2.671635]
+    "Vitoria": [42.846718, -2.671635]
     // Puedes añadir más municipios y sus coordenadas aquí
 };
 
